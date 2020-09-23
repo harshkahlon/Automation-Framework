@@ -1,0 +1,172 @@
+entityauto : Automation@21
+pharmauto : Automation@19
+hkahlon : Test@2021
+entityqa: mar20@Uber
+
+Test SVN - https://wp-svr-69.wellpartner.local/svn/QA
+
+pytest C_001_ClaritySmoke_test.py -s -v --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_Chrome.html --self-contained-html
+
+-s -v --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/SmartSmokeTest_Chrome.html --self-contained-html
+
+pytest C_001_ClaritySmoke_test.py -s -v --browser ie --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_IE.html --self-contained-html
+
+pytest C_001_ClaritySmoke_test.py -s -v --browser firefox --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_Firefox.html --self-contained-html
+
+-s -v --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/SmartSmokeTest_Chrome.html --self-contained-html
+
+-s -v --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/PurchaseOrdersRegressionTest_Chrome.html --self-contained-html
+
+-s -v --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_Chrome.html --self-contained-html
+
+-s -v --browser firefox --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_Firefox.html --self-contained-html
+
+-s -v --browser ie --html=//nfs201/Dev/TeamCity/SileniumTesting/reports/ClaritySmokeTest_IE.html --self-contained-html
+
+pip install html-testRunner
+
+Reports with no css files easy for sharing > python -m pytest --html=reports/report1.html --self-contained-html
+
+
+python -m pytest -s -v --html=reports/report1.html --self-contained-html
+
+
+cd "Clarity Smoke Test Suite"
+
+python -m pytest --browser firefox 
+
+Allure Reports = python -m pytest --alluredir=reports/allure_reports
+then = allure serve reports/allure_reports
+
+python -m pytest --alluredir=//nfs201/Dev/TeamCity/SileniumTesting/reports/allure_reports
+allure serve //nfs201/Dev/TeamCity/SileniumTesting/reports/allure_reports
+
+
+conftest.py file use to define the fixture..and also for pass arguments 
+
+Issue is Allure is not installed in our system that is why we facing this issue.Steps how to fix this issue from windows 10:
+
+1. Open Power Shell and run this command :  iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
+Note: if you get an error you might need to change the execution policy (i.e. enable Powershell) with Set-ExecutionPolicy RemoteSigned -scope CurrentUser
+
+2. After installing Allure add environment variable under System Variable : C:\Users\test123\scoop\apps\allure\current\bin
+
+3. Restart your machine and allure serve /path of file will work.
+
+What to do if F12 tools don't show anything : 
+   Here is PowerShell command you can try to help fix the F12 Developer Tool Issue.
+
+        First, Close MS Edge
+        From an Elevated Windows PowerShell cut and paste the following command:
+
+        Add-AppxPackage -register “C:\windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe\AppxManifest.xml” -DisableDevelopmentMode -Confirm:$false
+
+---> IE issue resolution:
+1. check enable protected mode for all zones via IE--security
+2. modify desired capabilities code from ie webdriver
+3. set scale and layout to 100% from display settings
+4. set screen zie to 100% from IE 
+5. In Advanced IE settings check - Enable 64 bit processors for Enhanced Protection Mode
+
+--->Edge Issue resolution:
+1. Go to windows settings --> Update and security --> For Developers --> Click Developer Mode
+If error happened then need to install Error 0x800F0954 
+The computer cannot access the Windows Update server – In some cases, the error message occurs because the system is not able to reach the WU server. This is typical in situations where there’s a whole network of domain-joined computers configured to download updates from a WSUS server. In this case, you can resolve the issue by bypassing the WSUS.
+
+In windows search type Registory Editor run in admin mode 
+Do Backup - Click on export and save reg back up on desktop 
+HKEY_LOCAL_MACHINE --> Software --> Policies --> Windows --> Windows Update --> AU --> UserWUServer = 0 (if this file not exist then create one as string value)
+Restart the machine 
+Now open CMD as Admin and type command : DISM.exe /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+If no error happened all good 
+Now go to folder C:\Windows\SysWOW64 and check file microsoftwebdriver.exe is there or not
+
+
+
+Python Env setup
+Install latest python executable file in local folder 
+Set the path variable if not set up automatically
+set path for whole python folder also for four directories - DLLs,Lib,libs,scripts
+Go to system and go to edit and create new path-> %PYTHONPATH% and delete if any python already there.
+Now  go to New and create new system variable -> PYTHONPATH and new variable value --> C:\python38;add rest
+last but not least also add webdriver variable path and project directory
+restart system
+check python variable 
+open cmd and type pythin -V
+
+Libs to install:
+selenium 
+pytest
+pytest-html
+pip install pytest-ordering
+allure-pytest
+pip install moment
+pip install msedge-selenium-tools
+pip install pyodbc
+pip install Appium-Python-Client
+
+
+
+
+
+
+Impoertant Paths : 
+
+\\dev1files\ClientExport
+
+\\cpfiles\ClientImport
+
+\\nfs201\dev\Release Management
+
+AP AR Statments flat files -  \\ref1files\ClientExport\CVS Specialty 
+
+https://hpalam.cvshealth.com:8443/qcbin
+
+jenkins server start 
+C:\Users\Hkahlon\Downloads>java -jar jenkins.war --httpPort=9191
+
+http://localhost:9191/
+
+admin - Admin@2327
+
+command to delete old builds
+Manage Jenkins --> Script Console
+
+def jobName = "ClaritySmoke-IE"  
+def job = Jenkins.instance.getItem(jobName)  
+job.getBuilds().each { it.delete() }  
+job.nextBuildNumber = 1   
+job.save()
+
+
+1) Set the SMTP server to "relay.wellpartner.net". Do not set the SMTP server to the server name or the IP address, in the event that this server is replaced.
+2) Set the port to 25. Do not enable SSL, TLS, or STARTTLS.
+3) Set the username to one of the below addresses. The domain name is not important, but will be useful in . If you would like to send as no-reply@google.local, or oracle@wp-svr-15.wellpartner.local, you may do so.
+- donotreply@wellpartner.net
+- noreply@wellpartner.net
+- no-reply@wellpartner.net
+- relay@wellpartner.net
+- oracle@wellpartner.net
+4) Do not use a password. 
+Hope this helps
+Anthony Bailey wrote this when he was in IT.
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
