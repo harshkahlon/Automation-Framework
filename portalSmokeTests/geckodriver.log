@@ -1,0 +1,463 @@
+1591810816167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.ReJ547Zivivf"
+1591810816711	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591810817362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591810817363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591810817364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591810817364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591810819563	Marionette	INFO	Listening on port 61650
+1591810819785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591810832898	Marionette	INFO	Stopped listening on port 61650
+1592254885566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.EpBQfuuXgaU4"
+1592254886887	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592254887513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592254887514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592254887514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592254887514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592254889870	Marionette	INFO	Listening on port 51595
+1592254890301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592254905144	Marionette	INFO	Stopped listening on port 51595
+1592255869626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.CfAE1PSQ96ja"
+1592255870183	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592255870767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592255870767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592255870767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592255870767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592255872833	Marionette	INFO	Listening on port 51858
+1592255873257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592255915358	Marionette	INFO	Stopped listening on port 51858
+1592255952067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.5Kg4Q2YuNEWz"
+1592255952581	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592255953155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592255953155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592255953155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592255953155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592255955271	Marionette	INFO	Listening on port 51981
+1592255955692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592255968625	Marionette	INFO	Stopped listening on port 51981
+1592256366388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.5vsPAEszjyCe"
+1592256366908	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592256367500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592256367500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592256367500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592256367500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592256369554	Marionette	INFO	Listening on port 52126
+1592256370007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592256383232	Marionette	INFO	Stopped listening on port 52126
+1592256884567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.xcSdJrnaC40q"
+1592256885112	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592256885711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592256885711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592256885711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592256885712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592256888038	Marionette	INFO	Listening on port 52379
+1592256888199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592256901777	Marionette	INFO	Stopped listening on port 52379
+1592257099790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.yCQWQUhh3l3S"
+1592257100416	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592257101442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592257101442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592257101442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592257101443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592257104540	Marionette	INFO	Listening on port 52655
+1592257104606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592257119504	Marionette	INFO	Stopped listening on port 52655
+1592308127625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.o3cfjHXCoQtq"
+1592308128924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592308129643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592308129643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592308129643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592308129643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592308132749	Marionette	INFO	Listening on port 55655
+1592308133060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592308146951	Marionette	INFO	Stopped listening on port 55655
+1592313414345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.fabTjQfafhzj"
+1592313415335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592313416148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592313416148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592313416148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592313416148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592313419279	Marionette	INFO	Listening on port 56874
+1592313419298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592313617526	Marionette	INFO	Stopped listening on port 56874
+1592314934505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.IQoNvgscsRF7"
+1592314935070	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592314935625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592314935625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592314935625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592314935625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592314937836	Marionette	INFO	Listening on port 59496
+1592314938195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592315105681	Marionette	INFO	Stopped listening on port 59496
+1592315529006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.17sQowd2YJYV"
+1592315529534	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592315530124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592315530124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592315530124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592315530124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592315532191	Marionette	INFO	Listening on port 60369
+1592315532665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592315596319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592315598800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592315609844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592315620724	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592315727290	Marionette	INFO	Stopped listening on port 60369
+1592316804282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.uImMQ1Wc7COt"
+1592316804830	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592316805427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592316805427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592316805428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592316805428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592316807653	Marionette	INFO	Listening on port 52495
+1592316807965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592316844486	Marionette	INFO	Stopped listening on port 52495
+1592317260039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.vNY4JgynWPhC"
+1592317260588	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592317261170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592317261170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592317261171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592317261171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592317263321	Marionette	INFO	Listening on port 52865
+1592317263723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592317397139	Marionette	INFO	Stopped listening on port 52865
+1592317615539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.PGfZn53jgFuR"
+1592317616529	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592317617240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592317617240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592317617241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592317617241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592317620563	Marionette	INFO	Listening on port 53395
+1592317620896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592317634155	Marionette	INFO	Stopped listening on port 53395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592320116092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.G0y4jJCFJtiA"
+1592320117164	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592320118108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592320118109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592320118109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592320118109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592320121167	Marionette	INFO	Listening on port 56846
+1592320121593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592320136694	Marionette	INFO	Stopped listening on port 56846
+1592343391246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.SHH0cGqF7S4m"
+1592343392422	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592343393065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592343393065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592343393065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592343393066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592343395458	Marionette	INFO	Listening on port 54761
+1592343395706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592343442701	Marionette	INFO	Stopped listening on port 54761
+1592343952139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.dpr4Sn0u7mfu"
+1592343952686	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592343953301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592343953301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592343953301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592343953301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592343955797	Marionette	INFO	Listening on port 55177
+1592343955848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592344137951	Marionette	INFO	Stopped listening on port 55177
+1592398333893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.Xh7cr939MtDQ"
+1592398334751	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592398335364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592398335364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592398335365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592398335365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592398337857	Marionette	INFO	Listening on port 64203
+1592398338061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592398496324	Marionette	INFO	Stopped listening on port 64203
+1592399837131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.5DEqk3ujY3kX"
+1592399837698	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592399838289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592399838289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592399838289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592399838289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592399840823	Marionette	INFO	Listening on port 49631
+1592399841309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592400007216	Marionette	INFO	Stopped listening on port 49631
+1592421329351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.r2KpQXYYehEK"
+1592421330863	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592421331475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592421331475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592421331476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592421331476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592421334414	Marionette	INFO	Listening on port 55535
+1592421334502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592421548040	Marionette	INFO	Stopped listening on port 55535
+1592422409804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.OlXo6jNBZcnX"
+1592422410427	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592422411007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592422411008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592422411008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592422411008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592422413317	Marionette	INFO	Listening on port 56409
+1592422413564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592422622854	Marionette	INFO	Stopped listening on port 56409
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592483012459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.fju8bRWRohwy"
+1592483013394	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592483013999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592483013999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592483013999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592483014000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592483016811	Marionette	INFO	Listening on port 53512
+1592483016875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://webportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592483194749	Marionette	INFO	Stopped listening on port 53512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592491075986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.l7Z3Lyo44pQs"
+1592491076563	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592491077180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592491077180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592491077181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592491077181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592491080199	Marionette	INFO	Listening on port 55881
+1592491080288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592491094357	Marionette	INFO	Stopped listening on port 55881
+1592491495641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.mSdsegHB0nc6"
+1592491496271	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592491496902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592491496902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592491496902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592491496902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592491499461	Marionette	INFO	Listening on port 56225
+1592491499758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592491512580	Marionette	INFO	Stopped listening on port 56225
+1592491740936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.ueOYX3wnY431"
+1592491741485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592491742090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592491742090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592491742090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592491742090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592491744735	Marionette	INFO	Listening on port 56539
+1592491745096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592491758278	Marionette	INFO	Stopped listening on port 56539
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592496218331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.kBwwP0kunwWw"
+1592496219459	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592496220329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592496220329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592496220329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592496220329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592496224430	Marionette	INFO	Listening on port 60563
+1592496224676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592496241397	Marionette	INFO	Stopped listening on port 60563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592497069739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.MMqSkhkuQddl"
+1592497070666	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592497072116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592497072116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592497072116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592497072116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592497078804	Marionette	INFO	Listening on port 61069
+1592497078930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592497095350	Marionette	INFO	Stopped listening on port 61069
+1592497364901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.v7MGJ4tMJNA9"
+1592497365829	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592497366722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592497366722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592497366723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592497366723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592497370641	Marionette	INFO	Listening on port 61502
+1592497370856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592497388661	Marionette	INFO	Stopped listening on port 61502
+1592504150860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.SGVJULRwhw5r"
+1592504152338	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592504153023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592504153023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592504153023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592504153023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592504156233	Marionette	INFO	Listening on port 63071
+1592504156641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592504176487	Marionette	INFO	Stopped listening on port 63071
+1592513241432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.tsU0uzB9hPOK"
+1592513242022	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592513242691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592513242691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592513242692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592513242692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592513245375	Marionette	INFO	Listening on port 50787
+1592513245704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592513415282	Marionette	INFO	Stopped listening on port 50787
+1592837875292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.IxByOtLodRuR"
+1592837877422	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1592837878133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592837878133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592837878134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592837878134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592837881439	Marionette	INFO	Listening on port 65282
+1592837881657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+JavaScript error: https://testwebportal.wellpartner.com/Clarity/Assets/js/kendo/jsKendoBundle?v=fLHCLgcUUWqE4yhf_aXwSDzH2QaqojjkkzZo8wjD2P41, line 1: Error: Cannot call method 'value' of kendoDropDownList before it is initialized
+1592838083568	Marionette	INFO	Stopped listening on port 65282
+1593096643233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.ZqPBEH6FeRxA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593096646348	Marionette	INFO	Listening on port 63064
+1593096646388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593096707350	Marionette	INFO	Stopped listening on port 63064
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.7mrAUbtmkEXD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593096652209	Marionette	INFO	Listening on port 63152
+1593096652649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593096666785	Marionette	INFO	Stopped listening on port 63152
+1593096721779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.wrUNv2HfaYT6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593096724523	Marionette	INFO	Listening on port 63312
+1593096724897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593096738602	Marionette	INFO	Stopped listening on port 63312
+1593097198151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.nF7KLllmubWh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097200826	Marionette	INFO	Listening on port 64076
+1593097201269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593097230790	Marionette	INFO	Stopped listening on port 64076
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.H6NBZhLporpZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097207014	Marionette	INFO	Listening on port 64163
+1593097207509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593097222182	Marionette	INFO	Stopped listening on port 64163
+1593097249290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.yrsIMfL6fHll"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097251944	Marionette	INFO	Listening on port 64302
+1593097252408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593097266757	Marionette	INFO	Stopped listening on port 64302
+1593552345954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.cQvwGQDCv6Mx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593552350990	Marionette	INFO	Listening on port 55805
+1593552351331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593552365515	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593552374525	Marionette	INFO	Stopped listening on port 55805
+1593617184508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.qHubePyEk00B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593617188484	Marionette	INFO	Listening on port 62113
+1593617188707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593617203425	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593617213710	Marionette	INFO	Stopped listening on port 62113
+1599751634397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hkahlon\\AppData\\Local\\Temp\\rust_mozprofile.mZokPBfTy8Q5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599751643099	Marionette	INFO	Listening on port 55081
+1599751643510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1599751660572	Marionette	INFO	Stopped listening on port 55081
